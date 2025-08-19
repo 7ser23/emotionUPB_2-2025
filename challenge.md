@@ -18,7 +18,7 @@ First, you need to download the project files from GitHub to your computer. This
 2.  Navigate to the directory where you want to store the project (e.g., `cd Documents/Projects`).
 3.  Run the following command:
     ```bash
-    git clone [https://github.com/7ser23/emotionUPB_2-2025.git](https://github.com/7ser23/emotionUPB_2-2025.git)
+    git clone (https://github.com/7ser23/emotionUPB_2-2025.git)
     ```
 4.  This will create a new folder named `emotionUPB_2-2025` containing all the project files.
 
@@ -28,7 +28,7 @@ First, you need to download the project files from GitHub to your computer. This
 2.  If PyCharm is already open, go to **File** -> **New** -> **Project from Version Control**.
 3.  In the URL field, paste the repository link:
     ```
-    [https://github.com/7ser23/emotionUPB_2-2025.git](https://github.com/7ser23/emotionUPB_2-2025.git)
+    https://github.com/7ser23/emotionUPB_2-2025.git
     ```
 4.  Choose a local directory where you want to save the project.
 5.  Click **Clone**. PyCharm will download the project and set it up for you.
