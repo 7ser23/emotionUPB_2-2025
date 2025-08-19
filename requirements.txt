@@ -1,0 +1,6 @@
+# Core libraries for deep learning and image processing
+torch
+torchvision
+opencv-python
+Pillow
+numpy
